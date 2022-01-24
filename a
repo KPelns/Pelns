@@ -1,0 +1,17 @@
+[1mdiff --git a/Change.txt b/Change.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 0241b82..0000000[m
+[1m--- a/Change.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1,2 +0,0 @@[m
+[31m-D text[m
+[31m-a[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mdeleted file mode 100644[m
+[1mindex faf9e57..0000000[m
+[1m--- a/index.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,2 +0,0 @@[m
+[31m-Change in C[m
+[31m-Change in D[m
